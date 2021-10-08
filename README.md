@@ -13,7 +13,9 @@ This is my personal website homepage, also a project for my [CS5610 Web Dev](htt
 ### Tech Requirements
 HTML/CSS, JavaScript, Bootstrap
 
-### Video Presentation
+### Presentation
+[Video Presentation](https://youtu.be/kIRvIJY9U2I)  
+[Slides](https://docs.google.com/presentation/d/1AzAGQUo5YM-eoJyv7Qvvzlh2GchTR_5a3WhUN4xm9nM/edit?usp=sharing)
 
 ### Intro to Install/ Run
 In order to run it, you may access it directly by https://github.com/Annie0207/Annie0207.github.io.
