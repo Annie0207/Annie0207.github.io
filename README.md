@@ -20,3 +20,5 @@ In order to run it, you may access it directly by https://github.com/Annie0207/A
 
 Moreover, you may clone the repository and run it locally either on your local server, or through a browser by **npm -install** & **http-server**
 
+### Release
+https://github.com/Annie0207/Annie0207.github.io/releases
