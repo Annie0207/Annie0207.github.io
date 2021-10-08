@@ -10,9 +10,12 @@ This is my personal website homepage, also a project for my [CS5610 Web Dev](htt
 ### Screenshot
 <img width="1430" alt="Screen Shot 2021-10-08 at 9 38 56 AM" src="https://user-images.githubusercontent.com/51539363/136592840-2df5844e-1167-4cde-8bc8-56a7fa9d00a6.png">
 
+### Tech Requirements
+HTML/CSS, JavaScript, Bootstrap
+
 ### Video Presentation
 
-### Intro to Build/ Run
+### Intro to Install/ Run
 In order to run it, you may access it directly by https://github.com/Annie0207/Annie0207.github.io.
 
 Moreover, you may clone the repository and run it locally either on your local server, or through a browser by **npm -install** & **http-server**
